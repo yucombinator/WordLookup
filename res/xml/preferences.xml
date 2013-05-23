@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <PreferenceCategory android:title="@string/help"><Preference android:enabled="false" android:title="@string/help" android:key="howtouse" android:summary="@string/howtouse" /><Preference android:title="@string/about" android:summary="@string/version"/></PreferenceCategory><PreferenceCategory android:title="@string/preferences"><ListPreference android:key="DisplayLength" android:dialogTitle="@string/displaydelay" android:summary="@string/delaydescript" android:entryValues="@array/Length" android:entries="@array/Length" android:title="@string/displaydelay" android:defaultValue="Normal" /><EditTextPreference android:defaultValue="2" android:title="@string/numberofdefinitions" android:summary="@string/numofdefdescript" android:numeric="integer" android:key="NumOfDef" android:dialogTitle="@string/numberofdefinitions" /><CheckBoxPreference android:defaultValue="false" android:summary="@string/TTSdescript" android:title="@string/TTS" android:key="toggleTTS" android:enabled="true" /><CheckBoxPreference android:key="shortTTS" android:title="@string/shorttts" android:summary="@string/shortTtsDef" android:dependency="toggleTTS"/></PreferenceCategory>
+    
+    
+    
+    
+    
+    
+    
+    
+
+</PreferenceScreen>

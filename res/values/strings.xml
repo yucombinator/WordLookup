@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">WordLookup</string>
+    <color name="transparent">#00000000</color>
+    <string name="app_name_intent"> WordLookup</string>
+    <string name="numberofdefinitions">Number of definitions shown</string>
+    <string name="numofdefdescript">The number of definitions shown in popup.</string>
+    <string name="displaydelay">Popup Display Length</string>
+    <string name="delaydescript">How long should the popup be visible?</string>
+    <string name="TTS">Toggle Text-to-Speech</string>
+    <string name="TTSdescript">Reads out word pronunciation and definition.</string>
+    <string name="logodescript">WordLookup Logo</string>
+    <string name="version">0.2.0beta</string>
+    <string name="help">Help</string>
+    <string name="howtouse">How to use WordLookup</string>
+    <string name="preferences">Preferences</string>
+    <string name="about">WordLookup by Icechen1</string>
+    <string name="shorttts">Do not read definition</string>
+    <string name="shortTtsDef">Only read word pronunciation using text to speech.</string>
+
+</resources>

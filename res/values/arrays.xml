@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="Length">
+    	<item name="Short">Short</item>
+    	<item name="Normal">Normal</item>
+    	<item name="Long">Long</item>
+    	<item name="VeryLong">Very Long</item>
+    </string-array>
+</resources>

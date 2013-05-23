@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="knicker-2.3.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WordLookup/libs/knicker-2.3.0.jar!/"/>
+		<relative-module-javadoc project-related="jar://$PROJECT_DIR$/WordLookup/libs/knicker-2.3.0-javadoc.jar!/"/>
+	</lib>
+</component>
